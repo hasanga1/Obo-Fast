@@ -1,0 +1,1 @@
+from schemas.lecture_material import LectureMaterialSchema

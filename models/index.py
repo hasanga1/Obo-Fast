@@ -1,0 +1,1 @@
+from models.lecture_material import lecture_materials
